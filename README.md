@@ -62,5 +62,7 @@ This project is released under the **MIT License**. See the `LICENSE` file for d
 
 ## Contact
 Author: Jeevan Jadhav
+
 Email: jeevanj020604@gamil.com.com
+
 GitHub: https://github.com/NOVA0206
