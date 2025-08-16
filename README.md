@@ -39,10 +39,6 @@ cd Portfolio-Template-3
 
 2. Open `Portfolio3.html` in your browser (double-click the file or `right click → Open with` your browser).
 
-> Tip: To test features that may rely on a server (if you later add fetch requests), serve the folder using a simple static server like `live-server` or `python -m http.server`.
-
----
-
 ## Customization guide
 
 * **Change text content & links**: Edit `Portfolio3.html` — replace the name, bio, social links and project entries.
@@ -63,3 +59,8 @@ You can host this on any static host (GitHub Pages, Netlify, Vercel static sites
 This project is released under the **MIT License**. See the `LICENSE` file for details.
 
 ---
+
+## Contact
+Author: Jeevan Jadhav
+Email: jeevanj020604@gamil.com.com
+GitHub: https://github.com/NOVA0206
